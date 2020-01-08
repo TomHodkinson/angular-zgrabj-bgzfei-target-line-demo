@@ -64,7 +64,6 @@ import { DashType } from '@progress/kendo-angular-charts';
   `
 })
 
-
 export class AppComponent {
   @Input() title: string = 'Demo';
   @Input() seriesItems: any[] = [
